@@ -1,1 +1,1 @@
-# http://isaribeirooo.github.io/MeuCurriculo
+# MeuCurriculo
